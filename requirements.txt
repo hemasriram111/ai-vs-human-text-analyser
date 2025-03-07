@@ -1,0 +1,5 @@
+streamlit
+datasets
+scikit-learn
+transformers
+torch
